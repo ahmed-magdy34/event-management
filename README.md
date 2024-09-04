@@ -1,8 +1,18 @@
-# React + Vite
+## Features
+- Create and manage events with ease.
+- Register for events and toggle registration status.
+- Real-time updates for event data.
+- Responsive design optimized for different devices.
+- Persistence of event data using Local Storage.
+- Advanced state management with React.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Prerequisites
+Before you begin, ensure you have the following installed:
+- **Node.js**: [Download Node.js](https://nodejs.org/) (LTS version recommended)
+- **npm**: Node package manager, comes with Node.js
+- **Git**: [Download Git](https://git-scm.com/)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/event-management-dashboard.git
